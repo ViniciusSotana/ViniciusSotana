@@ -3,16 +3,14 @@
 <h2 align="center">Redes Sociais:</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/viny_sotana/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/ViniciusSotana">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/vinicius-sotana/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" onclick="window.open('https://www.instagram.com/viny_sotana/')" style="cursor: pointer;" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" onclick="window.open('https://github.com/ViniciusSotana')" style="cursor: pointer;" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" onclick="window.open('https://www.linkedin.com/in/vinicius-sotana/')" style="cursor: pointer;" />
 </p>
+
+
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusSotana&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="iKripto's Stats" height="180px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSotana&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="iKripto's Top Languages" height="180px">
