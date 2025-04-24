@@ -2,10 +2,17 @@
 
 <h2 align="center">Redes Sociais:</h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viny_sotana/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusSotana)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-sotana/)
-
+<p align="center">
+  <a href="https://www.instagram.com/viny_sotana/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/ViniciusSotana">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vinicius-sotana/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusSotana&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="iKripto's Stats" height="180px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSotana&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="iKripto's Top Languages" height="180px">
