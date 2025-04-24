@@ -1,5 +1,11 @@
 <h1 align="center">Opa! Meu nome é Vinícius, prazer em te conhecer!</h1>
 
+<h2 align="center">Redes Sociais:</h2>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cadnizz/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosNiz)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-niz-05b1a6267/)
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusSotana&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="iKripto's Stats" height="180px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSotana&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="iKripto's Top Languages" height="180px">
